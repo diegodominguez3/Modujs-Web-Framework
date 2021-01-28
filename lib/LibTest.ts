@@ -12,9 +12,9 @@ export class LibTest {
     );
 
     users.on('change', () => {
-      const root = document.getElementById('root');
-      if (root) {
-        const userList = new UserList(root, users).render();
+      const testId = document.getElementById('test-row');
+      if (testId) {
+        const userList = new UserList(testId, users).render();
       }
     });
 

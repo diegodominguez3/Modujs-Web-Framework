@@ -2,28 +2,18 @@
   "users": [
     {
       "id": 1,
-      "name": "new name",
-      "age": 0
+      "name": "Diego",
+      "age": 24
     },
     {
       "id": 2,
-      "name": "new name",
-      "age": 0
+      "name": "Josh",
+      "age": 32
     },
     {
       "id": 3,
-      "name": "new name",
-      "age": 0
-    },
-    {
-      "id": 4,
-      "name": "new name",
-      "age": 0
-    },
-    {
-      "name": "Manuel",
-      "age": 24,
-      "id": 5
+      "name": "Janet",
+      "age": 28
     }
   ]
 }
