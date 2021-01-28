@@ -1,4 +1,4 @@
-<img align="left" width="40" height="40" src="https://github.com/diegodominguez3/Modujs-Web-Framework/blob/master/src/modu-icon.svg" alt="icon"/>
+<img style= "vertical-align: middle" align="left" width="40" height="40" src="https://github.com/diegodominguez3/Modujs-Web-Framework/blob/master/src/modu-icon.svg" alt="icon"/>
 
 # Modu.js Web Framework
 
