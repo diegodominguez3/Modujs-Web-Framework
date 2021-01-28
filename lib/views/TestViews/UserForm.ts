@@ -23,17 +23,19 @@ export class UserForm extends View<User, UserProps> {
     if (input) {
       const name = input.value;
       this.model.set({ name });
+      this.model.save();
     }
   };
 
   template(): string {
     return `
-      <div>
-        <input placeholder="${this.model.get('name')}" />
-        <button class="set-name">Change Name</button>
-        <button class="set-age"> Set Random Age </button>
-        <button class="save-model"> Save User </button>
-      </div>
+      <form>
+        <div class="form-group mx-sm-12 mb-2">
+          <input placeholder="${this.model.get('name')}" class="form-control" />
+          <button class="set-name btn btn-primary" style="margin-top:10px">Change Name</button>
+        </div>
+      </form>
+     <button class="set-age btn btn-secondary"> Set Random Age </button>
     `;
   }
 }
