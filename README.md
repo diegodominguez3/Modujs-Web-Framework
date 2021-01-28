@@ -10,4 +10,4 @@ Basic Backbone.js/Marionette.js like web framework built with typescript.
 2. Open http://localhost:1234
 3. Start coding your application!
 
-#### Dependencies
+### Dependencies
