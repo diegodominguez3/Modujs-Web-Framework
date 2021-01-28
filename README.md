@@ -2,7 +2,7 @@
 
 # Modu.js Web Framework
 
-Give Structure to your javascript/typescript web applications! <br>
+Give Structure to your typescript web applications! <br>
 Basic Backbone.js/Marionette.js like web framework built with typescript.
 
 ### Get Started
