@@ -9,8 +9,9 @@ Basic Backbone.js/Marionette.js like web framework built with typescript.
 
 1. Get parcel to start your local server.<br>
 `npm install -g parcel-bundler`
-2. Open http://localhost:1234
-3. Start coding your application in src folder!
+2. Clone repo and run `parcel index.html` in the root directory.
+3. Open http://localhost:1234
+4. Start coding your application in src folder!
 
 ### Dependencies
 - Parcel Bundler | https://www.npmjs.com/package/parcel-bundler
