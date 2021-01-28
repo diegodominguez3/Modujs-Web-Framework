@@ -12,8 +12,11 @@ const users = new Collection(
 users.on('change', () => {
   const root = document.getElementById('root');
   if (root) {
-    new UserList(root, users).render();
+    const userList = new UserList(root, users).render();
+    console.log(userList);
   }
 });
+
+users.trigger('change');
 
 users.fetch();
