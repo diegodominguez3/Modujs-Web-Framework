@@ -19,6 +19,11 @@
       "id": 4,
       "name": "new name",
       "age": 0
+    },
+    {
+      "name": "Manuel",
+      "age": 24,
+      "id": 5
     }
   ]
 }
