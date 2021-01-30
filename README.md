@@ -1,6 +1,6 @@
 <img align="left" width="80" height="80" src="https://github.com/diegodominguez3/Modujs-Web-Framework/blob/master/src/modu-icon.svg" alt="icon"/>
 
-# Modu.js Web Framework
+# Modu.ts Web Framework
 
 Give Structure to your typescript web applications! <br>
 Basic Backbone.js/Marionette.js like web framework built with typescript.
